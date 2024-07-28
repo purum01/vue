@@ -5,7 +5,7 @@
 * [Node.js](https://nodejs.org/)
 * npm intall –g @vue/cli
 * [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable]
-* [VSCode](https://code.visualstudio.com/)
+* [VSCode] (https://code.visualstudio.com/)
 * vue create 프로젝트명
 * npm run serve
 
